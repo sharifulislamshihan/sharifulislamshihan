@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [home-shop](https://github.com/sharifulislamshihan/home-shop-server)
+- 🔭 I’m currently working on [gadget24](https://github.com/sharifulislamshihan/gadget24-server)
 
 - 🌱 I’m currently learning **Depth of Backend**
 
