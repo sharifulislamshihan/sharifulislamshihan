@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [gadget24](https://github.com/sharifulislamshihan/gadget24-server)
+- 🔭 I’m currently working on [Whisper](https://github.com/sharifulislamshihan/whisper)
 
 - 🌱 I’m currently learning **Depth of Backend**
 
