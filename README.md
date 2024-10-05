@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam Shihan</h1>
-<h3 align="center">A Passionate MERN Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 <img align = "right" alt="coding" width= "400" src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndyNWNxa3Uwa3I3YzRjMXUzbG5seTg0c2xmNjcxNmpicXlzZWxqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
