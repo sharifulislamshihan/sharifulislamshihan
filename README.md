@@ -5,17 +5,17 @@
 
 
 
-- 🔭 I’m currently working on [Whisper](https://github.com/sharifulislamshihan/whisper)
+- 🔭 I’m currently working on [Whisper](https://github.com/sharifulislamshihan/savejobs-frontend)
 
 - 🌱 I’m currently learning **Depth of Backend**
 
-- 👨‍💻 All of my projects are available at [my Portfolio](https://shariful-islam-shihan.netlify.app/)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://shariful-islam-shihan.vercel.app/)
 
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, C, C++**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, C, C++, Computer Vision, AI/ML**
 
 - 📫 How to reach me **sharifulislamshihan@gmail.com**
 
-- 📄 Know about my experiences [by visiting my resume](https://drive.google.com/file/d/1fRqFVbj8WGFJqCdeoBvNqG15HRQZxfxi/view?usp=sharing)
+- 📄 Know about my experiences [by visiting my resume](https://drive.google.com/file/d/1h5adgQ89NceSwvF2nATpeRzOfT4OKK0Q/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
