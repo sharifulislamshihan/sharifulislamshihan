@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Whisper](https://github.com/sharifulislamshihan/savejobs-frontend)
+- 🔭 I’m currently working on [Save Jobs](https://github.com/sharifulislamshihan/savejobs-frontend)
 
 - 🌱 I’m currently learning **Depth of Backend**
 
